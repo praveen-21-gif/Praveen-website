@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> computers adda </title>
+<body>
+<h1> Text format </h1><hr><hr>
+<b> computers adda </b><br>
+<i> computers adda </i><br>
+<u> computers adda </u><br>
+<strike> computers adda </strike><br>
+a<sup>2</sup>-b<sup>2</sup><br>
+h<sub>2</sub>o<br>
+<string> computers adda <string><br>
+<hr><hr>
+</body>
+</html>
